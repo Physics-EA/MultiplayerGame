@@ -1,0 +1,654 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x152)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\b5U3dDisk\Chapter6\Client\client_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\b5U3dDisk\Chapter6\Client\client_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\b5U3dDisk\Chapter6\Client\client_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\b5U3dDisk\Chapter6\Client\client_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\b5U3dDisk\Chapter6\Client\client_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\b5U3dDisk\Chapter6\Client\client_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\b5U3dDisk\Chapter6\Client\client_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\b5U3dDisk\Chapter6\Client\client_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\b5U3dDisk\Chapter6\Client\client_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.043 seconds
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\b5U3dDisk\Chapter6\Client\client_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1170 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.026092 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 282.
+Total: 0.630569 ms (FindLiveObjects: 0.040448 ms CreateObjectMapping: 0.057955 ms MarkObjects: 0.518582 ms  DeleteObjects: 0.012375 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.526128 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 229.
+Total: 0.354676 ms (FindLiveObjects: 0.018412 ms CreateObjectMapping: 0.008451 ms MarkObjects: 0.191676 ms  DeleteObjects: 0.135531 ms)
+
+SocketException: 由于目标计算机积极拒绝，无法连接。
+
+  at System.Net.Sockets.Socket.Connect (System.Net.IPAddress[] addresses, Int32 port) [0x00000] in <filename unknown>:0 
+  at System.Net.Sockets.Socket.Connect (System.String host, Int32 port) [0x00000] in <filename unknown>:0 
+  at Walk.Connect () [0x00000] in <filename unknown>:0 
+  at Walk.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentNullException: Argument cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[System.String,UnityEngine.GameObject].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Walk.Move () [0x00000] in <filename unknown>:0 
+  at Walk.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
