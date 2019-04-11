@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tank_Chapter2", "Tank_Chapter2.csproj", "{584223B7-49E6-B3F0-3B24-D8455F4C3FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{584223B7-49E6-B3F0-3B24-D8455F4C3FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584223B7-49E6-B3F0-3B24-D8455F4C3FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584223B7-49E6-B3F0-3B24-D8455F4C3FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584223B7-49E6-B3F0-3B24-D8455F4C3FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
